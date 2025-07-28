@@ -16,6 +16,8 @@
 
 ### 轻款
 
+<img width="988" height="405" alt="image" src="https://github.com/user-attachments/assets/ca794e9e-1c58-45b2-b5ba-32996888234b" />
+
 - 全长98cm，柄长28cm。采用70%petg打印剑柄并打磨装配后，总重约620g，重心位于镡前约8.5cm。
 
 - 经测试，若选用3mm65Mn或60Si2Mn板材，剑条刺弯压力约9.5kg。
@@ -23,6 +25,8 @@
 - 数据可能存在浮动，视选材与工艺而定。
 
 ### 重款
+
+<img width="1028" height="429" alt="image" src="https://github.com/user-attachments/assets/d2d5a7bd-b52a-4af3-b7b5-37328bccceb4" />
 
 - 全长105cm，柄长28cm。采用70%petg打印剑柄并打磨装配后，总重约820g，重心位于镡前约10.5cm。
 
