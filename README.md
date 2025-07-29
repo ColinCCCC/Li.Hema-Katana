@@ -10,7 +10,9 @@
 
 ## 成品数据
 
-本项目为用于兵击对练的打刀钢刀设计，使用3mm金属板切件作为刀条，4mm金属板切件作为刀镡，无渐薄。
+本项目为用于兵击对练的打刀钢刀设计，使用3mm金属板切件作为刀条，4mm金属板切件作为刀镡。
+
+刀身无渐薄，项目通过直接设计刀身形状，以符合真刀质量分布，并达成减伤要求。
 
 分为轻款与重款，轻重两款共用同一刀柄、刀镡设计，仅刀条存在差异。
 
@@ -33,3 +35,25 @@
 - 经测试，若选用3mm65Mn或60Si2Mn板材，剑条刺弯压力约12kg。
 
 - 数据可能存在浮动，视选材与工艺而定。
+
+## 使用教程
+
+### 成品制作
+
+
+
+### 设计修改
+
+项目使用SOLIDWORKS2025进行设计，项目已附带所有原工程文件：
+
+刀条（轻款）：[blade-light.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.SLDPRT)
+
+刀条（重款）：[blade-heavy.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-heavy.SLDPRT)
+
+刀柄（左片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.SLDPRT)
+
+刀柄（右片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.SLDPRT)
+
+刀镡：[hgrd.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hgrd.SLDPRT)
+
+使用者可以在此基础上，按需求进行修改或再创作。
