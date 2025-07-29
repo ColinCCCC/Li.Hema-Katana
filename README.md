@@ -8,6 +8,8 @@
 
 本项目为减伤体育用品设计，请勿用于违反法律法规用途。
 
+制作成品无需用到任何工业设计专业知识，如有兴趣，可跟随下方教程进行制作。
+
 ## 成品数据
 
 本项目为用于兵击对练的打刀钢刀设计，使用3mm金属板切件作为刀条，4mm金属板切件作为刀镡。
@@ -40,20 +42,44 @@
 
 ### 成品制作
 
+#### 刀条、刀镡切割
 
+在淘宝等电商应用，搜索并查找提供**65Mn板材激光切割定制**服务的商家，按需选择合适的商品页面，并联系客服。
+
+为商家提供项目重对应的**DXF文件**，说明**每个文件的切割的数量与厚度**，待商家报价后，支付并提供收货地址，即可等待切割成品送达。
+
+所需DXF文件及其对应厚度如下：
+
+- 刀条（轻款）【3mm】：[blade-light.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.DXF)
+
+- 刀条（重款）【3mm】：[blade-heavy.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-heavy.DXF)
+
+- 刀镡【4mm】：[hgrd.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hgrd.DXF)
+
+#### 手柄打印
+
+若自备3D打印机，可以自行下载项目中的**STL文件**进行切片打印。
+
+若无3D打印机，可在闲鱼搜索附近提供3D打印服务的商户，提供项目中的**STL文件**，打印后取货。
+
+所需STL文件及其对应厚度如下：
+
+- 刀柄（左片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.SLDPRT)
+
+- 刀柄（右片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.SLDPRT)
 
 ### 设计修改
 
 项目使用SOLIDWORKS2025进行设计，项目已附带所有原工程文件：
 
-刀条（轻款）：[blade-light.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.SLDPRT)
+- 刀条（轻款）：[blade-light.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.SLDPRT)
 
-刀条（重款）：[blade-heavy.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-heavy.SLDPRT)
+- 刀条（重款）：[blade-heavy.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-heavy.SLDPRT)
 
-刀柄（左片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.SLDPRT)
+- 刀柄（左片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.SLDPRT)
 
-刀柄（右片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.SLDPRT)
+- 刀柄（右片）：[hilt-l.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.SLDPRT)
 
-刀镡：[hgrd.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hgrd.SLDPRT)
+- 刀镡：[hgrd.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hgrd.SLDPRT)
 
 使用者可以在此基础上，按需求进行修改或再创作。
