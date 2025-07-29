@@ -48,7 +48,7 @@
 
 为商家提供项目重对应的**DXF文件**，说明**每个文件的切割的数量与厚度**，待商家报价后，支付并提供收货地址，即可等待切割成品送达。
 
-所需DXF文件及其对应厚度如下：
+*所需DXF文件及其对应厚度如下：*
 
 - 刀条（轻款）【3mm】：[blade-light.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.DXF)
 
@@ -62,15 +62,23 @@
 
 若无3D打印机，可在闲鱼搜索附近提供3D打印服务的商户，提供项目中的**STL文件**，打印后取货。
 
-所需STL文件及其对应厚度如下：
+*所需STL文件及其对应厚度如下：*
 
 - 刀柄（左片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.STL)
 
 - 刀柄（右片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.STL)
 
+#### 圆角与抛光
+
+为保障对练安全性，**请务必对刀条进行圆角处理**。若希望追求美观性，可进一步对刀条与刀镡表面进行抛光。
+
+圆角与抛光需要用到砂带机或角磨机，可以选择自行打磨，或就近寻找五金店，请工作人员协助打磨。
+
 ### 设计修改
 
-项目使用SOLIDWORKS2025进行设计，项目已附带所有原工程文件：
+项目使用SOLIDWORKS2025进行设计，项目已附带所有原工程文件。
+
+*所有SLDPRT文件如下：*
 
 - 刀条（轻款）：[blade-light.SLDPRT](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.SLDPRT)
 
