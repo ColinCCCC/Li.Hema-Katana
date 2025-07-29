@@ -64,9 +64,9 @@
 
 所需STL文件及其对应厚度如下：
 
-- 刀柄（左片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.SLDPRT)
+- 刀柄（左片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-l.STL)
 
-- 刀柄（右片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.SLDPRT)
+- 刀柄（右片）：[hilt-l.STL](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/hilt-r.STL)
 
 ### 设计修改
 
