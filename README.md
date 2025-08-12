@@ -50,7 +50,7 @@
 
 *所需DXF文件及其对应厚度如下：*
 
-- 刀条（轻款）【3mm】：[blade-light.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.DXF?raw=true)
+- 刀条（轻款）【3mm】：[blade-light.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-light.DXF)
 
 - 刀条（重款）【3mm】：[blade-heavy.DXF](https://github.com/ColinCCCC/Li.Hema-Katana/blob/main/blade-heavy.DXF)
 
